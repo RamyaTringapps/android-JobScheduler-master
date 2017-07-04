@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/tringappsadmin/Downloads/android-JobScheduler-master/Application/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/tringappsadmin/.android/build-cache/4ffc262c18478e761f7e7a8e41b7667b4c5e9a94/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/tringappsadmin/Downloads/android-JobScheduler-master/Application/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/tringappsadmin/.android/build-cache/4ffc262c18478e761f7e7a8e41b7667b4c5e9a94/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/tringappsadmin/Downloads/android-JobScheduler-master/Application/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/tringappsadmin/.android/build-cache/4ffc262c18478e761f7e7a8e41b7667b4c5e9a94/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/tringappsadmin/Downloads/android-JobScheduler-master/Application/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/tringappsadmin/.android/build-cache/4ffc262c18478e761f7e7a8e41b7667b4c5e9a94/output/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]

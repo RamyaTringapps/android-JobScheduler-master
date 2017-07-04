@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/tringappsadmin/Downloads/android-JobScheduler-master/Application/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/tringappsadmin/.android/build-cache/4ffc262c18478e761f7e7a8e41b7667b4c5e9a94/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/tringappsadmin/Downloads/android-JobScheduler-master/Application/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/tringappsadmin/.android/build-cache/4ffc262c18478e761f7e7a8e41b7667b4c5e9a94/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/tringappsadmin/Downloads/android-JobScheduler-master/Application/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/tringappsadmin/.android/build-cache/4ffc262c18478e761f7e7a8e41b7667b4c5e9a94/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/tringappsadmin/Downloads/android-JobScheduler-master/Application/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/tringappsadmin/.android/build-cache/4ffc262c18478e761f7e7a8e41b7667b4c5e9a94/output/res/layout-v21/notification_action.xml"
+    }
+]

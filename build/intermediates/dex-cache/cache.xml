@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/tringappsadmin/.android/build-cache/81317dd45437f28b16db69188557c4cdf2eea8fc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/tringappsadmin/Downloads/android-JobScheduler-master/Application/build/intermediates/pre-dexed/debug/classes_09ac97906ff7dd06c4b116d600b8ec59fc15aeb2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tringappsadmin/.android/build-cache/efd165cf45481ebadf0c2d9fc4399c6b22afe3bf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/tringappsadmin/Downloads/android-JobScheduler-master/Application/build/intermediates/pre-dexed/debug/classes_ac650e9ac50e3be80db52b88d4e5cf6728889f0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tringappsadmin/.android/build-cache/d37c0379e1dbc017a427137a31de2d11d5058d04/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/tringappsadmin/Downloads/android-JobScheduler-master/Application/build/intermediates/pre-dexed/debug/classes_255ed83dab3f6d66b5850db65471f4c5fb3daf1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tringappsadmin/.android/build-cache/3d0627dacd52ad17d8d1fe6be0cf1b4ca6d3eab1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/tringappsadmin/Downloads/android-JobScheduler-master/Application/build/intermediates/pre-dexed/debug/classes_628a99825e7d6dd4b1c664943d5bd78810f79db3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tringappsadmin/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/tringappsadmin/Downloads/android-JobScheduler-master/Application/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_db00b01d81583bbf91df9fbc23078660296a84f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tringappsadmin/.android/build-cache/4ffc262c18478e761f7e7a8e41b7667b4c5e9a94/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/tringappsadmin/Downloads/android-JobScheduler-master/Application/build/intermediates/pre-dexed/debug/classes_0affa670b46e8b6119f2fcfce2d262ebb26a8a55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tringappsadmin/.android/build-cache/590e0248e976c39e600c260e25539bba2151acf2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/tringappsadmin/Downloads/android-JobScheduler-master/Application/build/intermediates/pre-dexed/debug/classes_475a5c932debcaddc0e5506cd8100197a299577c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tringappsadmin/.android/build-cache/a9c88bd378caad8e033b2187e59b5143aa2c03e7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/tringappsadmin/Downloads/android-JobScheduler-master/Application/build/intermediates/pre-dexed/debug/classes_2e91e9e2b3f68b4d8da22b2c3e1567d93b2b0877.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tringappsadmin/.android/build-cache/e85a20ee96a8f74404db7cbaded85d52ac490521/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/home/tringappsadmin/Downloads/android-JobScheduler-master/Application/build/intermediates/pre-dexed/debug/classes_cc76abfcc48743bc56a044cff9114c0a23044418.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tringappsadmin/.android/build-cache/e10f4b4dba5deb678beb575b66c00cbd9939412f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/tringappsadmin/Downloads/android-JobScheduler-master/Application/build/intermediates/pre-dexed/debug/classes_5f432577e385ffe519c47613c67e24e966561ca0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tringappsadmin/.android/build-cache/bb76d6079c4bbe3d7093c25b03ac7a775b4aae28/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/tringappsadmin/Downloads/android-JobScheduler-master/Application/build/intermediates/pre-dexed/debug/classes_7fe63acd607525cd92ce0dca3d7276be38ef2820.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tringappsadmin/.android/build-cache/ec2332b8ea97790806146e47fbb12f4e8300c0ed/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8531f2d46b35de75e6130f25830e0c2c0d6bb98c">
+        <dex dex="/home/tringappsadmin/Downloads/android-JobScheduler-master/Application/build/intermediates/pre-dexed/debug/classes_810f31bd3fccf12b614db427a025e15756653e1b.jar" />
+    </item>
+
+</items>
